@@ -19,9 +19,9 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough:
 
-<img src='https://youtu.be/Kq5tntKJJcE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://youtu.be/Kq5tntKJJcE
 
 ## Notes
 
